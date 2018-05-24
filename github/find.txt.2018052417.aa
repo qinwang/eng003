@@ -1,0 +1,5 @@
+
+
+
+find . -type f > 111.txt
+find . -name "*20180524*" > 222.txt
